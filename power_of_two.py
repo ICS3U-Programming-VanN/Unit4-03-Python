@@ -8,6 +8,9 @@
 
 
 def main():
+    # Initialize Variable
+    squared_number = 0
+
     # Asks for a number
     user_number_string = input("Enter a whole number: ")
 
